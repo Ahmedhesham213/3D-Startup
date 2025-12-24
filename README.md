@@ -8,7 +8,7 @@ This project focuses on creating a clean, futuristic UI by combining **AOS anima
 
 ## 🔗 Live Demo
 
-👉 **Project Link:**  ##[View](https://3d-startup.netlify.app/)
+👉 **Project Link:** (https://3d-startup.netlify.app/)
 
 > ⚠️ _Replace the link with your actual GitHub Pages / Netlify / Vercel URL if different._
 
